@@ -1,8 +1,8 @@
-# Hola, soy Rolando Lisarazo
+# Rolando Javier Lisarazo
 
 ## Full Stack Developer
 
-Adepto en el desarrolo de back y front para comercios digitales. me interesa la creación de videojuegos y experiencias ludicas
+Adepto en el desarrolo de back y front para comercios digitales. me interesa la creación de videojuegos y experiencia lúdicas 
 
 ## Habilidades Técnicas
 
@@ -10,28 +10,15 @@ Adepto en el desarrolo de back y front para comercios digitales. me interesa la 
 - Frameworks: React, Node.js, Express.js
 - Bases de datos: MySQ
 - Control de versiones: Git
-- Metodologías ágiles: Scrum, Kanban
-
-## Proyectos Destacados
-
-### [techMaster]
-Trabajo integrador para DigitalHouse. desarrollado con html, css y javascript 
-
-### [mi portfolio]
-página web dedicada a mí crecimiento y presentación como programador web
+- Metodologías ágiles: Scrum, Kamban
 
 ## Educación
 full stack developer - digital house 2023
 
 ## Idiomas
-
 Castellano: nativo
 inglés : avanzado
 
 ## Contacto
-
 - Correo Electrónico: r.lisarazo@gmail
 - Teléfono : +54 351 273 6958
-
-¡Estoy emocionado de seguir creando soluciones impactantes y colaborar en proyectos desafiantes! Si estás interesado en trabajar juntos, no dudes en contactarme.
-
