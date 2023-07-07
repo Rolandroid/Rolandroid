@@ -1,16 +1,37 @@
-### Hi there 👋
+# Hola, soy Rolando Lisarazo
 
-<!--
-**Rolandroid/Rolandroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full Stack Developer
 
-Here are some ideas to get you started:
+Adepto en el desarrolo de back y front para comercios digitales. me interesa la creación de videojuegos y experiencias ludicas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades Técnicas
+
+- Lenguajes de programación: JavaScript, HTML, CSS
+- Frameworks: React, Node.js, Express.js
+- Bases de datos: MySQ
+- Control de versiones: Git
+- Metodologías ágiles: Scrum, Kanban
+
+## Proyectos Destacados
+
+### [techMaster]
+Trabajo integrador para DigitalHouse. desarrollado con html, css y javascript 
+
+### [mi portfolio]
+página web dedicada a mí crecimiento y presentación como programador web
+
+## Educación
+full stack developer - digital house 2023
+
+## Idiomas
+
+Castellano: nativo
+inglés : avanzado
+
+## Contacto
+
+- Correo Electrónico: r.lisarazo@gmail
+- Teléfono : +54 351 273 6958
+
+¡Estoy emocionado de seguir creando soluciones impactantes y colaborar en proyectos desafiantes! Si estás interesado en trabajar juntos, no dudes en contactarme.
+
