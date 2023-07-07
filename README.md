@@ -17,6 +17,7 @@ full stack developer - digital house 2023
 
 ## Idiomas
 Castellano: nativo
+
 inglés : avanzado
 
 ## Contacto
