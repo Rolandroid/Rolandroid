@@ -2,7 +2,7 @@
 
 ## Full Stack Developer
 
-Adepto en el desarrolo de back y front para comercios digitales. me interesa la creación de videojuegos y experiencia lúdicas 
+Adepto en el desarrolo de back y front para comercios digitales. me interesa la creación de videojuegos.
 
 ## Habilidades Técnicas
 
