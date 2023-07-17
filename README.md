@@ -8,7 +8,7 @@ Adepto en el desarrolo de back y front para comercios digitales. me interesa la 
 
 - Lenguajes de programación: JavaScript, HTML, CSS
 - Frameworks: React, Node.js, Express.js
-- Bases de datos: MySQ
+- Bases de datos: MySQL
 - Control de versiones: Git
 - Metodologías ágiles: Scrum, Kamban
 
@@ -21,5 +21,5 @@ Castellano: nativo
 inglés : avanzado
 
 ## Contacto
-- Correo Electrónico: r.lisarazo@gmail
+- Correo Electrónico: r.lisarazo@gmail.com
 - Teléfono : +54 351 273 6958
