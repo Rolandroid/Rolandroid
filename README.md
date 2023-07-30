@@ -7,7 +7,7 @@ Adepto en el desarrolo de back y front para comercios digitales. me interesa la 
 ## Habilidades Técnicas
 
 - Lenguajes de programación: JavaScript, HTML, CSS
-- Frameworks: React, Node.js, Express.js
+- Frameworks: React, Express.js
 - Bases de datos: MySQL
 - Control de versiones: Git
 - Metodologías ágiles: Scrum, Kamban
