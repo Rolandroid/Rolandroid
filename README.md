@@ -2,11 +2,11 @@
 
 ## Full Stack Developer
 
-Adepto en el desarrolo de back y front para comercios digitales. me interesa la creación de videojuegos.
+Trainee en el desarrolo de back y front para comercios digitales. me interesa la creación de videojuegos.
 
 ## Habilidades Técnicas
 
-- Lenguajes de programación: JavaScript, HTML, CSS
+- Lenguajes: JavaScript, HTML, CSS
 - Frameworks: React, Express.js
 - Bases de datos: MySQL
 - Control de versiones: Git
@@ -17,9 +17,8 @@ full stack developer - digital house 2023
 
 ## Idiomas
 Castellano: nativo
-
-inglés : avanzado
+Inglés : avanzado
 
 ## Contacto
-- Correo Electrónico: r.lisarazo@gmail.com
+- Correo Electrónico: rlisarazo@gmail.com
 - Teléfono : +54 351 273 6958
