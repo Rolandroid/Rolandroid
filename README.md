@@ -16,7 +16,9 @@ Trainee en el desarrolo de back y front para comercios digitales. me interesa la
 full stack developer - digital house 2023
 
 ## Idiomas
+
 Castellano: nativo
+
 Inglés : avanzado
 
 ## Contacto
