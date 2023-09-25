@@ -2,7 +2,7 @@
 
 ## Full Stack Developer
 
-Trainee en el desarrolo de back y front para comercios digitales. me interesa la creación de videojuegos.
+Trainee en el desarrollo de back y front para comercios digitales. me interesa la creación de videojuegos.
 
 ## Habilidades Técnicas
 
