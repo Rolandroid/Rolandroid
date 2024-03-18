@@ -7,13 +7,14 @@ Trainee en el desarrollo de back y front para comercios digitales. me interesa l
 ## Habilidades Técnicas
 
 - Lenguajes: JavaScript, HTML, CSS
-- Frameworks: React, Express.js
+- Frameworks:Express.js
+- Library: React
 - Bases de datos: MySQL
 - Control de versiones: Git
 - Metodologías ágiles: Scrum, Kamban
 
 ## Educación
-full stack developer - digital house 2023
+full stack development - digital house 2023
 
 ## Idiomas
 
