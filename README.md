@@ -24,4 +24,4 @@ Inglés : avanzado
 
 ## Contacto
 - Correo Electrónico: rlisarazo@gmail.com
-- Teléfono : +54 351 273 6958
+- Teléfono : +54 351 228 7579
